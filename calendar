@@ -1,0 +1,8 @@
+	foop
+03/02	this is the first item, set for march 2nd, which is today
+	this is a continuation line
+
+03/03	this line shouldn't be printed until march 3rd, which is tomorrow
+this line shouldn't be printed under any circumstances
+
+	this line shouldn't print either
